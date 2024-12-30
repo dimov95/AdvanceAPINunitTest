@@ -1,13 +1,17 @@
-﻿using RestSharp;
+﻿using Newtonsoft.Json.Linq;
+using NUnit.Framework;
+using RestSharp;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
+using System.Runtime.InteropServices.JavaScript;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace ApiTestingWorkshop
 {
-    internal class GlobalConstants
+    public static class GlobalConstants
     {
         public const string BaseUrl = "http://localhost:5000/api";
 
@@ -17,9 +21,17 @@ namespace ApiTestingWorkshop
 
             var authClient = new RestClient(BaseUrl);
             var restRequest = new RestRequest(resource, Method.Post);
-            restRequest.AddJsonBody(new{email, password });
+            restRequest.AddJsonBody(new { email, password });
             var response = authClient.Post(restRequest);
-            return "";
+
+            if (response.StatusCode != HttpStatusCode.OK)
+            {
+
+                Assert.Fail($"Authentication failed. Status code :{response.StatusCode}, with content: {response.Content}");
+            }
+
+                var content = JObject.Parse(response.Content);
+            return content["token"]?.ToString();
         }
 
     }

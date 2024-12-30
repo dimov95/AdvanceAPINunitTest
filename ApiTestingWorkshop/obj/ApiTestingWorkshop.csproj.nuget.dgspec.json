@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\10.Workshop Basic API testing\\Eshop\\01.ApiTestingWorkshop\\ApiTestingWorkshop\\ApiTestingWorkshop.csproj": {}
+    "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\12.Workshop Advanced API Functional Testing\\23.2024Visual Studio\\ApiTestingWorkshop\\ApiTestingWorkshop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\10.Workshop Basic API testing\\Eshop\\01.ApiTestingWorkshop\\ApiTestingWorkshop\\ApiTestingWorkshop.csproj": {
+    "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\12.Workshop Advanced API Functional Testing\\23.2024Visual Studio\\ApiTestingWorkshop\\ApiTestingWorkshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\10.Workshop Basic API testing\\Eshop\\01.ApiTestingWorkshop\\ApiTestingWorkshop\\ApiTestingWorkshop.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\12.Workshop Advanced API Functional Testing\\23.2024Visual Studio\\ApiTestingWorkshop\\ApiTestingWorkshop.csproj",
         "projectName": "ApiTestingWorkshop",
-        "projectPath": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\10.Workshop Basic API testing\\Eshop\\01.ApiTestingWorkshop\\ApiTestingWorkshop\\ApiTestingWorkshop.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\12.Workshop Advanced API Functional Testing\\23.2024Visual Studio\\ApiTestingWorkshop\\ApiTestingWorkshop.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\10.Workshop Basic API testing\\Eshop\\01.ApiTestingWorkshop\\ApiTestingWorkshop\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\12.Workshop Advanced API Functional Testing\\23.2024Visual Studio\\ApiTestingWorkshop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "RestSharp": {
               "target": "Package",
               "version": "[112.1.0, )"

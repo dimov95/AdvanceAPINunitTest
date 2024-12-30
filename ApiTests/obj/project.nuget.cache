@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nz3JKFKvvpqKQY9sXL7KQEgyprMfwb6CcwLaK2o2qohBIsLlfU4+dv6MTo3WlaqyhYWDEFfiduiVW215iB8Ksw==",
+  "dgSpecHash": "cYutXtL9c4gQXt36Za+BWgFteY/da0XQtPN+CRs0fuqi3MC4cWzVOzGHkxx5vc7QYU6OlscAR3AzwfJbDaYvUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\10.Workshop Basic API testing\\Eshop\\01.ApiTestingWorkshop\\ApiTests\\ApiTests.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\12.Workshop Advanced API Functional Testing\\23.2024Visual Studio\\ApiTests\\ApiTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

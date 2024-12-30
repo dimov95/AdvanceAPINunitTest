@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ApiTestingWorkshop
-build_property.ProjectDir = C:\Users\USER\Desktop\SOFT UB\QA\05.11.2024 Back-End Automation\10.Workshop Basic API testing\Eshop\01.ApiTestingWorkshop\ApiTestingWorkshop\
+build_property.ProjectDir = C:\Users\USER\Desktop\SOFT UB\QA\05.11.2024 Back-End Automation\12.Workshop Advanced API Functional Testing\23.2024Visual Studio\ApiTestingWorkshop\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

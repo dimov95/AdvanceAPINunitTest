@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\10.Workshop Basic API testing\\Eshop\\01.ApiTestingWorkshop\\ApiTests\\ApiTests.csproj": {}
+    "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\12.Workshop Advanced API Functional Testing\\23.2024Visual Studio\\ApiTests\\ApiTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\10.Workshop Basic API testing\\Eshop\\01.ApiTestingWorkshop\\ApiTests\\ApiTests.csproj": {
+    "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\12.Workshop Advanced API Functional Testing\\23.2024Visual Studio\\ApiTests\\ApiTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\10.Workshop Basic API testing\\Eshop\\01.ApiTestingWorkshop\\ApiTests\\ApiTests.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\12.Workshop Advanced API Functional Testing\\23.2024Visual Studio\\ApiTests\\ApiTests.csproj",
         "projectName": "ApiTests",
-        "projectPath": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\10.Workshop Basic API testing\\Eshop\\01.ApiTestingWorkshop\\ApiTests\\ApiTests.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\12.Workshop Advanced API Functional Testing\\23.2024Visual Studio\\ApiTests\\ApiTests.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\10.Workshop Basic API testing\\Eshop\\01.ApiTestingWorkshop\\ApiTests\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\05.11.2024 Back-End Automation\\12.Workshop Advanced API Functional Testing\\23.2024Visual Studio\\ApiTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
