@@ -47,7 +47,7 @@
           "dependencies": {
             "NUnit": {
               "target": "Package",
-              "version": "[4.3.1, )"
+              "version": "[4.3.2, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",

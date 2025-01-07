@@ -85,8 +85,8 @@ namespace ApiTestingWorkshop
             var verifyRequest = new RestRequest($"/blog/{blogID}", Method.Get);
             var verifyResponse = restClient.Execute(verifyRequest);
 
-            //Asser to chek for Null
-            Assert.That(verifyResponse.Content, Is.Null.Or.EqualTo("null "), "Verifi response faeld");
+            //Assetr to chek for Null
+            Assert.That(verifyResponse.Content, Is.Null.Or.EqualTo("null "), "Verify response faeld");
         }
     }
 }

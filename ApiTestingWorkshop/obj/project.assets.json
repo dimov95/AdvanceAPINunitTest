@@ -15,7 +15,7 @@
           }
         }
       },
-      "NUnit/4.3.1": {
+      "NUnit/4.3.2": {
         "type": "package",
         "compile": {
           "lib/net8.0/nunit.framework.dll": {
@@ -80,10 +80,10 @@
         "packageIcon.png"
       ]
     },
-    "NUnit/4.3.1": {
-      "sha512": "798HDjDWfo2/BVWAeqIny3hRP2z/uk2EVeTeFB69EGHQWxFZ1oVXRaobtOdkzBF4b/olUuWXDJzgtW63aBRDxg==",
+    "NUnit/4.3.2": {
+      "sha512": "puVXayXNmEu7MFQSUswGmUjOy3M3baprMbkLl5PAutpeDoGTr+jPv33qAYsqxywi2wJCq8l/O3EhHoLulPE1iQ==",
       "type": "package",
-      "path": "nunit/4.3.1",
+      "path": "nunit/4.3.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -105,7 +105,7 @@
         "lib/net8.0/nunit.framework.legacy.dll",
         "lib/net8.0/nunit.framework.legacy.xml",
         "lib/net8.0/nunit.framework.xml",
-        "nunit.4.3.1.nupkg.sha512",
+        "nunit.4.3.2.nupkg.sha512",
         "nunit.nuspec"
       ]
     },
@@ -137,7 +137,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "NUnit >= 4.3.1",
+      "NUnit >= 4.3.2",
       "Newtonsoft.Json >= 13.0.1",
       "RestSharp >= 112.1.0"
     ]
@@ -188,7 +188,7 @@
         "dependencies": {
           "NUnit": {
             "target": "Package",
-            "version": "[4.3.1, )"
+            "version": "[4.3.2, )"
           },
           "Newtonsoft.Json": {
             "target": "Package",

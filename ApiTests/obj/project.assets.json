@@ -303,7 +303,7 @@
           }
         }
       },
-      "NUnit/4.3.1": {
+      "NUnit/4.3.2": {
         "type": "package",
         "compile": {
           "lib/net8.0/nunit.framework.dll": {
@@ -699,10 +699,10 @@
         "packageIcon.png"
       ]
     },
-    "NUnit/4.3.1": {
-      "sha512": "798HDjDWfo2/BVWAeqIny3hRP2z/uk2EVeTeFB69EGHQWxFZ1oVXRaobtOdkzBF4b/olUuWXDJzgtW63aBRDxg==",
+    "NUnit/4.3.2": {
+      "sha512": "puVXayXNmEu7MFQSUswGmUjOy3M3baprMbkLl5PAutpeDoGTr+jPv33qAYsqxywi2wJCq8l/O3EhHoLulPE1iQ==",
       "type": "package",
-      "path": "nunit/4.3.1",
+      "path": "nunit/4.3.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -724,7 +724,7 @@
         "lib/net8.0/nunit.framework.legacy.dll",
         "lib/net8.0/nunit.framework.legacy.xml",
         "lib/net8.0/nunit.framework.xml",
-        "nunit.4.3.1.nupkg.sha512",
+        "nunit.4.3.2.nupkg.sha512",
         "nunit.nuspec"
       ]
     },
@@ -823,7 +823,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.NET.Test.Sdk >= 17.12.0",
-      "NUnit >= 4.3.1",
+      "NUnit >= 4.3.2",
       "NUnit.Analyzers >= 3.9.0",
       "NUnit3TestAdapter >= 4.6.0",
       "RestSharp >= 112.1.0",
@@ -880,7 +880,7 @@
           },
           "NUnit": {
             "target": "Package",
-            "version": "[4.3.1, )"
+            "version": "[4.3.2, )"
           },
           "NUnit.Analyzers": {
             "target": "Package",
